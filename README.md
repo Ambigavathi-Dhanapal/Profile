@@ -21,7 +21,8 @@ I'm an experienced **iOS/macOS Developer** with over 10 years of expertise in bu
 - 🧩 
 
 ### 📈 GitHub Stats
-![Ambigavathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Ambigavathi-Dhanapal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ambigavathi-Dhanapal&show_icons=true&theme=radical)
+
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/ambigavathi-dhanapal)
